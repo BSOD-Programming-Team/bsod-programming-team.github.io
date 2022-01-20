@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        BSOD Programming Team
+tagline:      只有三个人的团队
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "zh-CN"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       RedsXi
+  url:        http://bsod-programming-team.github.io 
 
 # Gems
 gems:
